@@ -1,4 +1,4 @@
-# 🚀 wordSearch
+# 🚀 WordSearch
 
 > A short tagline that explains what the project does.
 
