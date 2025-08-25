@@ -1,0 +1,3 @@
+﻿  wordSearch.cpp
+C:\Users\jokes\source\repos\wordSearch\wordSearch\wordSearch.cpp(42,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  wordSearch.vcxproj -> C:\Users\jokes\source\repos\wordSearch\x64\Debug\wordSearch.exe
